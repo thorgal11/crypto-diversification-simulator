@@ -22,6 +22,6 @@ The script `crypto-investment-calculator.py` will use data in csv/ to simulate a
 This script will run simluate your investment divided in 1 - x coins and displays a graph for every month of the set timespan. The script is named `crypto-growth-factor-calculator.py`, it can be easily adjusted by the parameters in the beginning.
 
 ## Problems and Warning
-The data scraped has prices in USD, but I used currency_converter to convert them to eur, which sometimes  isnt too exact. I checked back several results, but there might be issues or dates I didnt check which are distorting or totally erring the results.
+The data scraped has prices in USD, but I used currency_converter to convert them to EUR, which sometimes  isnt too exact. I checked back several results, but there might be issues or dates I didnt check which are distorting or totally erring the results.
 
 Besides possible faulty results, this script is just simulating with historical data and and must in no way be seen as a prognosis of the future development of the cryptomarket - DONT USE RESULTS OF THIS SCRIPT AS INVESTMENT GUIDE. 
